@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">クマよけ鈴</string>
+    <string name="startButton">鈴を鳴らす</string>
+    <string name="endButton">鈴を止める</string>
+</resources>
